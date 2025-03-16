@@ -4,7 +4,7 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 
 ## Files
 - **`active_tv_links.m3u`**: An M3U playlist file containing active TV streams, categorized by genre (e.g., News, Sports, Movies), with channel names and logos.
-- **`active_tv_links.json`**: A JSON file listing active TV streams with details like name, type ("Canal Aberto"), URL, and logo image.
+- **`active_tv_links.json`**: A JSON file listing active TV streams with details like name, type ("Free Air Channel"), URL, and logo image.
 
 ## How It Works
 - A private script fetches links from various public sources, verifies their activity, and generates these output files.
