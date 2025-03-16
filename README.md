@@ -20,25 +20,25 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 - M3U  :<a href="https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.m3u"> Right click & Copy link address </a>
 - JSON :<a href="https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.json"> Right click & Copy link address </a>
 
-## Online Use:
+## Online Useable Tools:
 <a href="https://hodlx.netlify.app" target="_blank"><img src="https://hodlx.netlify.app/img/logo.png" alt="IPTV Player"></a>
 <a href="https://pismarttv.netlify.app" target="_blank"><img src="https://pismarttv.netlify.app/img/logo.png" alt="IPTV Player"></a>
 <a href="https://hodliptv.netlify.app" target="_blank"><img src="https://hodliptv.netlify.app/img/logo.png" alt="IPTV Player"></a>
 <a href="https://hodlplay.netlify.app" target="_blank"><img src="https://hodlplay.netlify.app/img/logo.png" alt="IPTV Player"></a>
 
 ## Disclaimer
-No Content Hosting: This repository does not host or stream any content. It only aggregates publicly available streaming links.
-Third-Party Sources: Links are sourced from external, publicly accessible locations. We do not control, own, or maintain these streams.
-No Warranty: The links are provided "as is" without guarantees of availability, quality, or legality. Use at your own risk.
-Not Affiliated: This project is not affiliated with any streaming services, broadcasters, or content providers listed.
-Potential Risks: Streaming from unverified sources may expose you to legal, security, or privacy risks depending on your jurisdiction.
+- No Content Hosting: This repository does not host or stream any content. It only aggregates publicly available streaming links.
+- Third-Party Sources: Links are sourced from external, publicly accessible locations. We do not control, own, or maintain these streams.
+- No Warranty: The links are provided "as is" without guarantees of availability, quality, or legality. Use at your own risk.
+- Not Affiliated: This project is not affiliated with any streaming services, broadcasters, or content providers listed.
+- Potential Risks: Streaming from unverified sources may expose you to legal, security, or privacy risks depending on your jurisdiction.
 
 ## Usage Policy
-Personal Use Only: These files are intended for personal, non-commercial use.
-No Redistribution for Profit: Do not redistribute or sell these files for commercial purposes.
-Respect Source Terms: Adhere to the terms of service of the original stream providers.
-Attribution: If you share or use this data, please credit bugsfreeweb/PublicTVLinks.
-Modification: Feel free to modify the files for personal use, but do not misrepresent them as official or endorsed content.
+- Personal Use Only: These files are intended for personal, non-commercial use.
+- No Redistribution for Profit: Do not redistribute or sell these files for commercial purposes.
+- Respect Source Terms: Adhere to the terms of service of the original stream providers.
+- Attribution: If you share or use this data, please credit bugsfreeweb/PublicTVLinks.
+- Modification: Feel free to modify the files for personal use, but do not misrepresent them as official or endorsed content.
 
 ## Contributing
 This is an automated project, so direct contributions are not accepted here. If you have suggestions or sources to add, please contact the maintainer via GitHub Issues (if enabled) or other means.
