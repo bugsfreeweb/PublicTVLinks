@@ -17,8 +17,8 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 3. **JSON**: Integrate into custom applications or scripts needing structured data.
 
 ## Direct links for use
-- M3U  :<a href="https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.m3u">Right click to copy link </a>
-- JSON :<a href="https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.json">Right click to copy link </a>
+- M3U  :<a href="https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.m3u"> Right click & Copy link address </a>
+- JSON :<a href="https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.json"> Right click & Copy link address </a>
 
 ## Online Use:
 <a href="https://hodlx.netlify.app" target="_blank"><img src="https://hodlx.netlify.app/img/logo.png" alt="IPTV Player"></a>
