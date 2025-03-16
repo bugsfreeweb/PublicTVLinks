@@ -16,5 +16,22 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 2. **M3U**: Use with media players like VLC, IPTV apps, or Smart TVs supporting M3U playlists.
 3. **JSON**: Integrate into custom applications or scripts needing structured data.
 
-## Example
-### `active_tv_links.m3u`
+## Disclaimer
+No Content Hosting: This repository does not host or stream any content. It only aggregates publicly available streaming links.
+Third-Party Sources: Links are sourced from external, publicly accessible locations. We do not control, own, or maintain these streams.
+No Warranty: The links are provided "as is" without guarantees of availability, quality, or legality. Use at your own risk.
+Not Affiliated: This project is not affiliated with any streaming services, broadcasters, or content providers listed.
+Potential Risks: Streaming from unverified sources may expose you to legal, security, or privacy risks depending on your jurisdiction.
+
+## Usage Policy
+Personal Use Only: These files are intended for personal, non-commercial use.
+No Redistribution for Profit: Do not redistribute or sell these files for commercial purposes.
+Respect Source Terms: Adhere to the terms of service of the original stream providers.
+Attribution: If you share or use this data, please credit bugsfreeweb/PublicTVLinks.
+Modification: Feel free to modify the files for personal use, but do not misrepresent them as official or endorsed content.
+
+## Contributing
+This is an automated project, so direct contributions are not accepted here. If you have suggestions or sources to add, please contact the maintainer via GitHub Issues (if enabled) or other means.
+
+## License
+This project is unlicensed in the public domain, but the content of the links remains subject to the original providers’ rights and terms.
