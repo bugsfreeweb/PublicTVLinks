@@ -21,7 +21,7 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 - JSON : https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.json
 
 ## Online Use:
-
+- <a href="https://hodlx.netlify.app" target="_blank"><img src="https://hodlx.netlify.app/img/logo.png" alt="IPTV Player">Online Player 1</a>  
 
 ## Disclaimer
 No Content Hosting: This repository does not host or stream any content. It only aggregates publicly available streaming links.
