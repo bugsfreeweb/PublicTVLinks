@@ -1,6 +1,6 @@
 # PublicTVLinks
 
-Welcome to **PublicTVLinks**, a repository that provides a curated list of active TV streaming links in both M3U and JSON formats. These files (`active_tv_links.m3u` and `active_tv_links.json`) are automatically updated every 12 hours using a GitHub Actions workflow to ensure only working links are included.
+Welcome to **PublicTVLinks**, a repository that provides a curated list of active TV streaming links in both M3U and JSON formats. These files (`active_tv_links.m3u` and `active_tv_links.json`) are automatically updated every 24 hours using a GitHub Actions workflow to ensure only working links are included.
 
 ## Files
 - **`active_tv_links.m3u`**: An M3U playlist file containing active TV streams, categorized by genre (e.g., News, Sports, Movies), with channel names and logos.
@@ -8,7 +8,7 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 
 ## How It Works
 - A private script fetches links from various public sources, verifies their activity, and generates these output files.
-- The process runs every 12 hours (00:00 and 12:00 UTC) via GitHub Actions, pushing updates to this public repository.
+- The process runs every 24 hours (00:00 and 12:00 UTC) via GitHub Actions, pushing updates to this public repository.
 - Only links responding with HTTP 200 status are included, ensuring reliability.
 
 ## Usage
@@ -17,8 +17,8 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 3. **JSON**: Integrate into custom applications or scripts needing structured data.
 
 ## Direct links for use
-- M3U  : https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.m3u
-- JSON : https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.json
+- M3U  :<a href="https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.m3u">Right click to copy link </a>
+- JSON :<a href="https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.json">Right click to copy link </a>
 
 ## Online Use:
 <a href="https://hodlx.netlify.app" target="_blank"><img src="https://hodlx.netlify.app/img/logo.png" alt="IPTV Player"></a>
