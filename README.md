@@ -17,8 +17,11 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 3. **JSON**: Integrate into custom applications or scripts needing structured data.
 
 ## Direct links for use
-For M3U   : [https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.m3u] 
-For JSON  : [https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.json] 
+For M3U   : [https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.m3u] .
+For JSON  : [https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links.json] .
+
+## Online Use:
+
 
 ## Disclaimer
 No Content Hosting: This repository does not host or stream any content. It only aggregates publicly available streaming links.
