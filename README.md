@@ -2,6 +2,7 @@
 ![PublicTVLinks](https://m3uchecker.netlify.app/img/logo.png)
 
 # PublicTVLinks
+
 Welcome to **PublicTVLinks**, a repository that provides a curated list of active TV streaming links in multiple formats. These files (`active_tv_links.m3u`, `active_tv_links.json`, `active_tv_links.txt`, and `active_tv_links`) are automatically updated once every 24 hours using a GitHub Actions workflow to ensure only working links are included.
 
 ## Files
@@ -11,9 +12,9 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 - **`active_tv_links`**: A file without extension in JSON format, identical to `active_tv_links.json`.
 
 ## How It Works
-- A private script fetches links from 30 public sources, verifies their activity, and generates these output files.
+- A private script fetches links from 30 public sources, verifies their activity with improved reliability (HEAD with GET fallback, retries, and broader status acceptance), and generates these output files.
 - The process runs daily at 00:00 UTC via GitHub Actions, pushing updates to this public repository.
-- Only links responding with HTTP 200 status are included, ensuring reliability.
+- Only links confirmed active (e.g., HTTP 200 or 206) are included, optimized for offline streaming compatibility.
 
 ## Usage
 1. **Download**: Grab the latest files from the repository.
