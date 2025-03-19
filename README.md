@@ -29,11 +29,11 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 - W/O-EXT:<a href="https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links"> Right click & Copy link address </a>
 
 ## Online Useable Tools:
-<a href="https://hodlx.netlify.app" target="_blank"><img src="https://hodlx.netlify.app/img/logo.png" style="width:auto; height:80px" alt="IPTV Player"></a>
-<a href="https://pismarttv.netlify.app" target="_blank"><img src="https://pismarttv.netlify.app/img/logo.png" alt="IPTV Player"></a>
-<a href="https://hodliptv.netlify.app" target="_blank"><img src="https://hodliptv.netlify.app/img/logo.png" alt="IPTV Player"></a>
-<a href="https://pixstream.netlify.app" target="_blank"><img src="https://pixstream.netlify.app/img/logo.png" alt="IPTV Player"></a>
-<a href="https://m3uchecker.netlify.app" target="_blank"><img src="https://m3uchecker.netlify.app/img/logo.png" alt="M3U Checker"></a>
+<a href="https://hodlx.netlify.app" target="_blank"><img src="https://hodlx.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
+<a href="https://pismarttv.netlify.app" target="_blank"><img src="https://pismarttv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
+<a href="https://hodliptv.netlify.app" target="_blank"><img src="https://hodliptv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
+<a href="https://pixstream.netlify.app" target="_blank"><img src="https://pixstream.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
+<a href="https://m3uchecker.netlify.app" target="_blank"><img src="https://m3uchecker.netlify.app/img/logo.png" style="width:auto; height:60px" alt="M3U Checker"></a>
 
 ## Disclaimer
 - No Content Hosting: This repository does not host or stream any content. It only aggregates publicly available streaming links.
