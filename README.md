@@ -29,7 +29,7 @@ Welcome to **PublicTVLinks**, a repository that provides a curated list of activ
 - W/O-EXT:<a href="https://raw.githubusercontent.com/bugsfreeweb/PublicTVLinks/refs/heads/main/active_tv_links"> Right click & Copy link address </a>
 
 ## Online Useable Tools:
-<a href="https://hodlx.netlify.app" target="_blank"><img src="https://hodlx.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
+<a href="https://lolstream.netlify.app" target="_blank"><img src="https://lolstream.netlify.app/img/logo.png" style="width:auto; height:60px" alt="Stream Player"></a>
 <a href="https://pismarttv.netlify.app" target="_blank"><img src="https://pismarttv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
 <a href="https://hodliptv.netlify.app" target="_blank"><img src="https://hodliptv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
 <a href="https://pixstream.netlify.app" target="_blank"><img src="https://pixstream.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
